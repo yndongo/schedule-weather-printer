@@ -1,0 +1,38 @@
+{
+  "morning": [
+    { "id": "morning-1", "text": "hope your morning is going smoothly." },
+    { "id": "morning-2", "text": "wishing you a steady and productive start." },
+    { "id": "morning-3", "text": "take things one step at a time today." },
+    { "id": "morning-4", "text": "hope today begins on a good note." },
+    { "id": "morning-5", "text": "sending a simple good morning your way." },
+    { "id": "morning-6", "text": "hope your plans for today go well." },
+    { "id": "morning-7", "text": "wishing you a calm and focused morning." },
+    { "id": "morning-8", "text": "another day, another opportunity to begin." },
+    { "id": "morning-9", "text": "hope you feel ready for the day ahead." },
+    { "id": "morning-10", "text": "taking a moment to wish you a good morning." }
+  ],
+  "afternoon": [
+    { "id": "afternoon-1", "text": "hope your day is progressing well." },
+    { "id": "afternoon-2", "text": "sending a quick check-in this afternoon." },
+    { "id": "afternoon-3", "text": "hope the rest of your day goes smoothly." },
+    { "id": "afternoon-4", "text": "wishing you a steady and easy afternoon." },
+    { "id": "afternoon-5", "text": "taking a moment to say hello this afternoon." },
+    { "id": "afternoon-6", "text": "hope things are going as planned today." },
+    { "id": "afternoon-7", "text": "sending a simple message for the afternoon." },
+    { "id": "afternoon-8", "text": "hope the remainder of your day feels manageable." },
+    { "id": "afternoon-9", "text": "checking in and wishing you a good afternoon." },
+    { "id": "afternoon-10", "text": "hope your afternoon is calm and productive." }
+  ],
+  "night": [
+    { "id": "night-1", "text": "hope you have a restful evening." },
+    { "id": "night-2", "text": "wishing you a calm and quiet night." },
+    { "id": "night-3", "text": "hope today wrapped up well for you." },
+    { "id": "night-4", "text": "sending a simple good night message." },
+    { "id": "night-5", "text": "hope you get some good rest tonight." },
+    { "id": "night-6", "text": "another day comes to a close." },
+    { "id": "night-7", "text": "wishing you an easy and peaceful evening." },
+    { "id": "night-8", "text": "hope tonight gives you time to relax." },
+    { "id": "night-9", "text": "taking a moment to say good night." },
+    { "id": "night-10", "text": "hope tomorrow starts well for you." }
+  ]
+}

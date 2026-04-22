@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+venv/
+.DS_Store
+
+# local data
+data/
+config.json
+config.test.json

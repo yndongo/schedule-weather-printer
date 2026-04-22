@@ -1,0 +1,29 @@
+{
+  "morning": [
+    "good morning.",
+    "morning.",
+    "hello, good morning.",
+    "a simple good morning.",
+    "starting the day with a greeting.",
+    "morning check-in.",
+    "wishing you a good morning."
+  ],
+  "afternoon": [
+    "good afternoon.",
+    "hello this afternoon.",
+    "afternoon check-in.",
+    "a simple good afternoon.",
+    "hope your afternoon is going well.",
+    "just a quick afternoon greeting.",
+    "wishing you a good afternoon."
+  ],
+  "night": [
+    "good evening.",
+    "good night.",
+    "evening check-in.",
+    "a simple good night.",
+    "wishing you a calm evening.",
+    "just a quick night greeting.",
+    "hope you have a good night."
+  ]
+}

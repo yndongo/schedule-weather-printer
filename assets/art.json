@@ -1,0 +1,130 @@
+{
+  "fallback": {
+    "key": "neutral-smile",
+    "text": "  .-.\n (   )\n  `-`",
+    "extras": [
+	  {
+	    "key": "christmas-tree-ornaments-1",
+	    "text": "    *    \n   /o\\   \n  /o_o\\  \n /o___o\\ \n||   "
+	  },
+      {
+        "key": "valentine-heart-1",
+        "text": " **   **\n *********\n  ******\n   ****\n    ***\n    *"
+      }
+    ]
+  },
+  "morning": {
+    "sunny": [
+      {
+        "key": "morning-sun-1",
+        "text": "    \\ | /\n  --   *  --\n    / | \\"
+      }
+    ],
+    "cloudy": [
+      {
+        "key": "morning-cloud-1",
+        "text": "   .--.\n .(    ).\n(___.__)__)"
+      }
+    ],
+    "rainy": [
+      {
+        "key": "morning-rain-1",
+        "text": "   .--.\n .(    ).\n(___.__)__)\n ' ' ' '"
+      }
+    ],
+    "snowy": [
+      {
+        "key": "morning-snow-1",
+        "text": "   .--.\n .*    *.\n*__*__*__*"
+      }
+    ],
+    "stormy": [
+      {
+        "key": "morning-storm-1",
+        "text": "   .--.\n .(    ).\n(___.__)__)\n   / /"
+      }
+    ],
+    "windy": [
+      {
+        "key": "morning-wind-1",
+        "text": " ~~~  ~~~\n  ~~~  ~~"
+      }
+    ]
+  },
+  "afternoon": {
+    "sunny": [
+      {
+        "key": "afternoon-sun-1",
+        "text": "    \\ | /\n  --   *  --\n    / | \\"
+      }
+    ],
+    "cloudy": [
+      {
+        "key": "afternoon-cloud-1",
+        "text": "  .--.\n (____)"
+      }
+    ],
+    "rainy": [
+      {
+        "key": "afternoon-rain-1",
+        "text": "  .--.\n (____)\n  ' ' '"
+      }
+    ],
+    "snowy": [
+      {
+        "key": "afternoon-snow-1",
+        "text": " *  *  *\n  *  *"
+      }
+    ],
+    "stormy": [
+      {
+        "key": "afternoon-storm-1",
+        "text": "  .--.\n (____)\n   //"
+      }
+    ],
+    "windy": [
+      {
+        "key": "afternoon-wind-1",
+        "text": " >>  >>\n  >>  >"
+      }
+    ]
+  },
+  "night": {
+    "sunny": [
+      {
+        "key": "night-sun-1",
+        "text": "    \\ | /\n  --   *  --\n    / | \\"
+      }
+    ],
+    "cloudy": [
+      {
+        "key": "night-cloud-1",
+        "text": "  .--.\n (____)\n   zz"
+      }
+    ],
+    "rainy": [
+      {
+        "key": "night-rain-1",
+        "text": "  .--.\n (____)\n  ' '"
+      }
+    ],
+    "snowy": [
+      {
+        "key": "night-snow-1",
+        "text": "  *  *\n *  * "
+      }
+    ],
+    "stormy": [
+      {
+        "key": "night-storm-1",
+        "text": "  .--.\n (____)\n   /"
+      }
+    ],
+    "windy": [
+      {
+        "key": "night-wind-1",
+        "text": " ~~ ~~\n  ~~ ~"
+      }
+    ]
+  }
+}
