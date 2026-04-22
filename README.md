@@ -62,7 +62,7 @@ schedule-weather-printer/
 ### 1. Clone the repository
 
 ```
-git clone <your-repo-url>
+git clone https://github.com/yndongo/schedule-weather-printer
 cd weather-gift
 ```
 
